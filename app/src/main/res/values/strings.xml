@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartPantry</string>
+    <string name="no_expiry_date">No expiry date</string>
+</resources>
